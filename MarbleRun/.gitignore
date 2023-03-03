@@ -71,6 +71,6 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-SmashingPumpkins/DerivedDataCache/*
-SmashingPumpkins/Saved/*
-SmashingPumpkins/Intermediate/*
+DerivedDataCache/*
+Saved/*
+Intermediate/*
